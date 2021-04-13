@@ -2592,7 +2592,7 @@ input, select, textarea {
 
 		.image.right {
 			float: right;
-			margin: 0 0 1em 1.5em;
+			margin: 2em 2em 1em 1.5em;
 			top: 0.25em;
 		}
 
@@ -3135,7 +3135,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 100em;
 			-ms-flex: 1;
 		}
 
